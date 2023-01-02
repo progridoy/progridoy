@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @progridoy
+- 👋 Hi, I’m Ridoy
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Web Developing
 
